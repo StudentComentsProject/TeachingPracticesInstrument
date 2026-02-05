@@ -165,7 +165,3 @@ Our labeling of teaching practices is available in JSON format:
 | Lack of pedagogical support|  0.028| 1.00 | |
 | Problems in curriculum design| 0.097| 0.195|1.00 |
 
-
-
-
-
